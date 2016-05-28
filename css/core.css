@@ -1,0 +1,89 @@
+.overlay a{
+color: white;   
+}
+
+.hidden {
+    display: none;
+}
+.info {
+    text-align: left;
+    font-size: 12px;
+    padding-right: 5%;
+    line-height: 1.6;
+}
+
+.current {
+    font-weight: 800;
+}
+
+#player{
+    background-size: cover;
+position: fixed;
+right: 0;
+bottom: 0;
+min-width: 100%;
+min-height: 100%;
+width: auto;
+height: auto;
+z-index: -100;
+}
+
+.overlay {
+  width: 400px;
+  height: 400px;
+  display: block;
+  position: absolute;
+  top: 10%;
+  left: 30%;
+}
+
+#plattegrond {
+width: 100%;
+height: 900px;
+background: dimgrey;
+}
+
+#uitleg{
+    padding: 4%;
+    background-color: white;
+    float: left;
+    width: 30%;
+    margin: 2%;   
+}
+
+#kaart {
+    padding: 4%;
+    background-color: white;
+    float: left;
+    width: 60%;
+    margin: 2%;    
+}
+
+#verdieping a {
+    margin-left: 2%;
+    margin-right: 2%;
+}
+
+#verdieping .current {
+    background-color: rgba(0,0,0,0.3);
+    padding: 1%;
+}
+
+#lokalen {
+    background-color: yellow;
+    padding: 1%;
+    margin: 3% 0 2% 0;
+}
+
+#lokalen a {
+    padding: 0 7%;
+}
+
+img {
+    width: 100%;
+}
+
+#naam_gebouw {
+    font-weight: 500;
+    text-align: center;
+}
