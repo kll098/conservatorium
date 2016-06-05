@@ -27,9 +27,9 @@ clips.push({titel:'Chillen in de tuin', info:'tuin', optie1:'Applaudisseren', op
 
 clips.push({titel:'Meespelen', info:'gitaargang', optie1:'Applaudisseren', optie2:'Weglopen', optie3:'', link:'C4WTO5CcSw8'}); // muziek 4b -6-
 
-clips.push({titel:'Applaudisseren', info:'gele_zaal', optie1:'Chillen in de witte foyer', optie2:'Naar huis gaan', optie3:'', link:'B9LnBmH8TY'}); // muziek 6a -8-
+clips.push({titel:'Applaudisseren', info:'gele_zaal', optie1:'Chillen in de witte foyer', optie2:'Naar huis gaan', optie3:'', link:'5uVIkMs143k'}); // muziek 6a -8-
 
-clips.push({titel:'Weglopen', info:'gele_zaal', optie1:'clip-10', optie2:'clip-11', optie3:'', link:'f3QpaLTNRlw'}); // muziek 6b -9-
+clips.push({titel:'Weglopen', info:'gele_zaal', optie1:'Chillen in de witte foyer', optie2:'Naar huis gaan', optie3:'', link:'f3QpaLTNRlw'}); // muziek 6b -9-
 
 clips.push({titel:'Chillen in de witte foyer', info:'witte_foyer', optie1:'OPNIEUW BEGINNEN', optie2:'', optie3:'', link:'CTgwRPA-RRo'}); // muziek 7a -10-
 
@@ -54,14 +54,15 @@ clips.push({titel:'Tetris Battle spelen met je buurman', info:'computerlokaal', 
 clips.push({titel:'Werken aan je opstel', info:'computerlokaal', optie1:'Medestudent helpen', optie2:'Een koffietje drinken', optie3:'', link:'DcKePKQN9EQ'}); // theater 4b -25-
 clips.push({titel:'Medestudent helpen', info:'percussielokalen', optie1:'Bij je klasgenoten gaan zitten', optie2:'Bij de Erasmusstudent gaan zitten', optie3:'', link:'idkNLyxFEtE'}); // theater 5a -26-
 clips.push({titel:'Een koffietje drinken', info:'percussielokalen', optie1:'Bij je klasgenoten gaan zitten', optie2:'Bij de Erasmusstudent gaan zitten', optie3:'', link:'3b922Jen6kY'}); // theater 5b -27-
-clips.push({titel:'Bij je klasgenoten gaan zitten', info:'artiestenfoyer', optie1:'Naar de voorstelling gaan kijken', optie2:'', optie3:'', link:'7zd0CsPRF24'}); // theater 6a -28-
+
+clips.push({titel:'Bij je klasgenoten gaan zitten', info:'artiestenfoyer', optie1:'Naar de voorstelling gaan kijken', optie2:'De tram naar huis nemen', optie3:'', link:'7zd0CsPRF24'}); // theater 6a -28-
+
 clips.push({titel:'Bij de Erasmus student gaan zitten', info:'artiestenfoyer', optie1:'Naar de voorstelling gaan kijken', optie2:'De tram naar huis nemen', optie3:'', link:'fAGVm5wy9vI'}); // theater 6b -29-
+
 clips.push({titel:'Naar de voorstelling gaan kijken', info:'rode_zaal', optie1:'OPNIEUW BEGINNEN', optie2:'', optie3:'', link:'18c5LY0qGfU'}); // theater 7a -30-
+
 clips.push({titel:'De tram naar huis nemen', info:'openbaar_vervoer', optie1:'OPNIEUW BEGINNEN', optie2:'', optie3:'', link:'5BiBz100bLg'}); // theater 7b -31-
 
-
-
-clips.push({titel:'', optie1:'', optie2:'', optie3:'', link:''});
 
 var clip = getFirstClip();
 setClipInfo();
