@@ -57,7 +57,7 @@ clips.push({titel:'Een koffietje drinken', info:'percussielokalen', optie1:'Bij 
 
 clips.push({titel:'Bij je klasgenoten gaan zitten', info:'artiestenfoyer', optie1:'Naar de voorstelling gaan kijken', optie2:'De tram naar huis nemen', optie3:'', link:'7zd0CsPRF24'}); // theater 6a -28-
 
-clips.push({titel:'Bij de Erasmus student gaan zitten', info:'artiestenfoyer', optie1:'Naar de voorstelling gaan kijken', optie2:'De tram naar huis nemen', optie3:'', link:'fAGVm5wy9vI'}); // theater 6b -29-
+clips.push({titel:'Bij de Erasmusstudent gaan zitten', info:'artiestenfoyer', optie1:'Naar de voorstelling gaan kijken', optie2:'De tram naar huis nemen', optie3:'', link:'fAGVm5wy9vI'}); // theater 6b -29-
 
 clips.push({titel:'Naar de voorstelling gaan kijken', info:'rode_zaal', optie1:'OPNIEUW BEGINNEN', optie2:'', optie3:'', link:'18c5LY0qGfU'}); // theater 7a -30-
 
